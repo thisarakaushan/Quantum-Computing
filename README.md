@@ -60,7 +60,7 @@ Unlock the potential of quantum computing in cryptography, artificial intelligen
 ##### Interference
 **Definition**: Control the probability of a qubit system collapsing into measurement states.
 
-**Example**: [Provide an example here.]
+**Example**: 
 
 ### Complex Numbers
 
@@ -77,17 +77,17 @@ Explore the role of complex numbers in quantum computing and understand why they
 ##### Linear Combination
 **Definition**: Combination of vectors through scalar multiplication and addition.
 
-**Example**: [Provide an example here.]
+**Example**: 
 
 ##### Linear Dependence
 **Definition**: Vectors are linearly dependent if one vector can be expressed as a combination of others.
 
-**Example**: [Provide an example here.]
+**Example**: 
 
 ##### Linear Independence
 **Definition**: Vectors are linearly independent if no vector can be expressed as a combination of others.
 
-**Example**: [Provide an example here.]
+**Example**: 
 
 #### Span and Basis
 Explore the concepts of span and basis in linear algebra and understand their significance.
@@ -95,12 +95,12 @@ Explore the concepts of span and basis in linear algebra and understand their si
 ##### Matrix
 **Definition**: Mathematical representation used in various real-life applications.
 
-Where matrices are used: [Provide examples.]
+Where matrices are used: 
 
 ##### Projection
 Definition: The process of projecting a vector onto a subspace.
 
-Real-life applications: [Provide examples.]
+Real-life applications: 
 
 #### Introduction to Qubits
 ##### Qubit Creation
