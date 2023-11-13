@@ -47,17 +47,17 @@ Unlock the potential of quantum computing in cryptography, artificial intelligen
 
 ### Characteristics of a Computational System
 
-##### Superposition
+1. ##### Superposition
 **Definition**: Existence of one element in many states or places simultaneously.
 
 **Example**: A basic water molecule exhibiting superposition.
 
-##### Entanglement
+2. ##### Entanglement
 **Definition**: Quantum mechanical phenomenon where the states of two or more objects are interconnected.
 
 **Example**: Two spinning electrons demonstrating entanglement.
 
-##### Interference
+3. ##### Interference
 **Definition**: Control the probability of a qubit system collapsing into measurement states.
 
 **Example**: 
@@ -74,35 +74,36 @@ Explore the role of complex numbers in quantum computing and understand why they
 
 #### Linear Algebra
 
-##### Linear Combination
+1. ##### Linear Combination
 **Definition**: Combination of vectors through scalar multiplication and addition.
 
 **Example**: 
 
-##### Linear Dependence
+2. ##### Linear Dependence
 **Definition**: Vectors are linearly dependent if one vector can be expressed as a combination of others.
 
 **Example**: 
 
-##### Linear Independence
+3. ##### Linear Independence
 **Definition**: Vectors are linearly independent if no vector can be expressed as a combination of others.
 
 **Example**: 
 
-#### Span and Basis
+4. #### Span and Basis
 Explore the concepts of span and basis in linear algebra and understand their significance.
 
-##### Matrix
+5. ##### Matrix
 **Definition**: Mathematical representation used in various real-life applications.
 
 Where matrices are used: 
 
-##### Projection
+6. ##### Projection
 Definition: The process of projecting a vector onto a subspace.
 
 Real-life applications: 
 
 #### Introduction to Qubits
+
 ##### Qubit Creation
 Explore the methods of creating qubits and understand their fundamental differences from classical bits.
 
@@ -117,17 +118,17 @@ Understand the mathematical concepts behind qubits, including working with multi
 
 #### Quantum Computing Algorithms
 
-##### Quantum Fourier Transform Algorithms
+1. ##### Quantum Fourier Transform Algorithms
 **Definition**: Linear transformation on qubits, analogous to the inverse discrete Fourier transform.
 
 **Associated algorithms**: Shor's and Simon's algorithms.
 
-##### Amplitude Amplification Algorithms
+2. ##### Amplitude Amplification Algorithms
 **Definition**: Generalization of Grover's search algorithm, applicable to counting and probability tasks.
 
 **Algorithms**: Grover's and quantum counting algorithms.
 
-##### Quantum Walk Algorithms
+3. ##### Quantum Walk Algorithms
 **Definition**: Quantum version of the classic random walk, formulated in continuous and discrete time.
 
 **Problem**: Element distinctness problem.
