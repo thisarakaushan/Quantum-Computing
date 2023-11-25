@@ -93,8 +93,17 @@ Explore the role of complex numbers in quantum computing and understand why they
 Explore the concepts of span and basis in linear algebra and understand their significance.
 
 5. ##### Matrix
-**Definition**: Mathematical representation used in various real-life applications.
+**Definition**: Mathematical representation used in various real-life applications. Mainly we are used _two kind of matricies_.
+  ```
+  - Unitary Matricies: U^t * U = I, inverse of U is U^T means when acting on a vector, unitary matricies rotate/flip the vector, keeping the magnitude of the vector the same
+  - Hermitian Matricies: H = H^t
+  ```
+  - Eigenvectors and Eigenvalues:
+    
+    <img left=50% width="400" alt="image" src="https://github.com/thisarakaushan/Quantum-Computing/assets/125348115/11082ce8-ef93-4f6a-bb48-08bfb5098a8b">
+    <img right=50% width="400" alt="image" src="https://github.com/thisarakaushan/Quantum-Computing/assets/125348115/2b1080bd-6dcb-4d4e-ad55-fad52f890d6b">
 
+ 
 Where matrices are used: 
 
 6. ##### Projection
@@ -102,10 +111,13 @@ Definition: The process of projecting a vector onto a subspace.
 
 Real-life applications: 
 
-#### Introduction to Qubits
+### Introduction to Qubits
+
+* Classical Computers use 0's and 1's bits in different times. In Quantum Computers also follow same scenerio but it can be use 0 and 1 at the samw time.
 
 ##### Qubit Creation
-Explore the methods of creating qubits and understand their fundamental differences from classical bits.
+
+* Physically, a qubit can be amde from any quantum particle that has 2 distinct states. A Qubit is in a _**Superposition**_, if it is both 0 and 1 at same time.
 
 ##### Utility of Qubits
 Learn how qubits enhance computational power in quantum computing compared to classical bits.
