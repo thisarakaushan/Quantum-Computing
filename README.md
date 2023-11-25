@@ -40,7 +40,24 @@ Welcome to the Quantum Computing Explained repository! This comprehensive guide 
 ### Quantum Computing Basics
 
 #### Definition of Quantum Computing
-Quantum computing leverages the principles of superposition, entanglement, and interference to process information in ways classical computers cannot.
+
+* Quantum computers are controllable quantum mechanical devices that exploit the properties of quantum physics to perform computations. For some computational tasks, quantum computing provides exponential speedups.
+
+* _**Qubits**_ (quantum bits) are the fundamental object of information in quantum computing.
+
+* Quantum computing leverages the principles of _**superposition**_, _**entanglement**_, and _**interference**_ to process information in ways classical computers cannot.
+
+#### Why use Quantum Computing?
+
+* Quantum theory can be interpreted as saying that matter, at a quantum level, is in a multitude of possible configurations (known as states).
+
+* These many configurations of the quantum state, may interfere with each other, and this interference prevents the use of statistical sampling to obtain the quantum state configurations.
+
+* The foundational core of quantum computing to store Information in quantum states of matter and to use quantum gate operations to compute on that information. by harnessing and learning to 'program' quantum interference.
+
+* Quantum computers harness the unique behavior of quantum physics—such as superposition, entanglement, and quantum interference—and apply it to computing. This introduces new concepts to traditional programming methods.
+
+* With _Azure Quantum_, you can make use of the advantages of quantum computing today, in a full-stack open cloud ecosystem with access to software, hardware, and pre-built solutions. Azure Quantum offers two types of solutions: _quantum computing_ and _optimization_.
 
 #### Applications of Quantum Computing
 Unlock the potential of quantum computing in cryptography, artificial intelligence, finance, and particle physics.
@@ -114,6 +131,9 @@ Real-life applications:
 ### Introduction to Qubits
 
 * Classical Computers use 0's and 1's bits in different times. In Quantum Computers also follow same scenerio but it can be use 0 and 1 at the samw time.
+
+* The fundamental difference between Classical Computers and Quantum Computers is that programs in Quantum Computers are _intrinsically
+probabilistic_, whereas Classical Computers are usually _deterministic_. 
 
 ##### Qubit Creation
 
